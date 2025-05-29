@@ -23,8 +23,6 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
     <title>CAMERRA - Sign Up</title>
     <link rel="stylesheet" href="style.css">
     <link href="https://fonts.googleapis.com/css2?family=Anton&family=Inria+Sans&display=swap" rel="stylesheet">
-  
-  
 </head>
 <body>
     <div class="akun">
@@ -41,9 +39,7 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
 
         <p class="akun-desc">
             Already Registered? <a href="signin.php" style="color:#FEF9E1; text-decoration: underline;">Sign In</a>
-        </p>
-
-        
+        </p>  
     </div>
 </body>
 </html>
